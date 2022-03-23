@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExchangeRateParser2", "ExchangeRateParser2\ExchangeRateParser2.csproj", "{2C2A6A2F-0AC8-45C2-A40D-79DA580E0386}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C2A6A2F-0AC8-45C2-A40D-79DA580E0386}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C2A6A2F-0AC8-45C2-A40D-79DA580E0386}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C2A6A2F-0AC8-45C2-A40D-79DA580E0386}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C2A6A2F-0AC8-45C2-A40D-79DA580E0386}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E6CD8AB-605A-4B45-B241-5A4A50BC6BF8}
+	EndGlobalSection
+EndGlobal
